@@ -22,7 +22,7 @@ st.write('<h1 class="big-title">Dashboard Data Analysis Bike Sharing</h1>', unsa
 st.write('<hr class="hr">', unsafe_allow_html=True)
 
 st.sidebar.title("Bike Sharing")
-st.sidebar.image('sidebarlogo.png')
+st.sidebar.image('dashboard/sidebarlogo.png')
 selected_dataset = st.sidebar.selectbox("Show Dataset", ["Hide Dataset", "Day Dataset", "Hour Dataset", "Summary Statistics"])
 if selected_dataset == "Day Dataset":
     st.subheader("Raw Data (Day Dataset)")
