@@ -13,6 +13,7 @@ Proyek ini bertujuan untuk menganalisis data dalam Bike Sharing Dataset dengan u
 ## Installation
    ```shell
    git clone https://github.com/AldiPutra24/Proyek-Analisis-Data_Bike-Sharing.git
+   cd Proyek-Analisis-Data_Bike-Sharing
    ```
    ```shell
    pip install streamlit
