@@ -1,6 +1,7 @@
 # Proyek-Analisis-Data_Bike-Sharing
 Submission Dicoding "Belajar Data Analytics dengan Python"
-We just updated our [Dashboard](https://www.codecademy.com/pages/contribute-docs)!
+
+Silakan lihat dashboard dari hasil analisis data di [sini](https://aldiputra.streamlit.app/)!
 
 ## Deskripsi
 
